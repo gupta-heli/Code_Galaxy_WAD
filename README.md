@@ -15,6 +15,7 @@
 
 **Repository:** https://github.com/Vraj-Ramavat/WAD_Codex  
 **Live website:** [https://codegalaxy-nova.vercel.app/](https://codegalaxy-nova.vercel.app/)  
+**🎬 Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1kg_A0lp8RXNKyM3JsUJSulPcapknFEva/view?usp=sharing)  
 **Original project/reference:** https://github.com/Vraj-Ramavat/WAD_review  
 **App directory:** [`CodeGalaxy-NOVA/`](CodeGalaxy-NOVA/)  
 **Local frontend:** http://localhost:3000  
